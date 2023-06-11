@@ -1,0 +1,8 @@
+.navimg{
+    margin-left: 30px;
+}
+.nav-link .text-info{
+    background-color: white;
+    color: black;
+    border: 2px solid #0bd9e0; 
+}
